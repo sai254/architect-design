@@ -6,6 +6,4 @@ Fully responsive architect design website using html, css and javascript.
 - CSS3
 - JavaScript
 
-## Screenshot
-
 
